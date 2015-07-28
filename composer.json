@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "guzzle/guzzle3": "3.*",
-        "maxmind/MaxMind-DB-Reader-php": "~0.3.1",
+        "guzzle/guzzle3": "3.9.1",
+        "maxmind/MaxMind-DB-Reader-php": "0.3.1",
         "php": ">=5.3.1"
     },
     "require-dev": {
